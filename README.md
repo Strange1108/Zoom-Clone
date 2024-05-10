@@ -1,4 +1,25 @@
-# Zoom Clone
+<div align="center">
+  <br />
+      <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
+  <br />
+
+  <div>
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
+
+  <h3 align="center">A Zoom Clone</h3>
+
+</div>
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Assets & Code](#snippets)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -55,8 +76,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com//zoom-clone.git
-cd zoom-clone
+git clone https://github.com/Strange1108/Zoom-Clone.git
+cd Zoom-Clone
 ```
 
 **Installation**
@@ -390,3 +411,7 @@ export default MeetingCard;
 ```
 
 </details>
+
+## <a name="links">🔗 Links</a>
+
+Public assets used in the project can be found [here](https://drive.google.com/file/d/1ofTpWii_sCIdJ14uQ431xWVXpYgjtQ8Q/view?usp=sharing)
